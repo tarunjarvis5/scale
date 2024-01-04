@@ -1,0 +1,8 @@
+docker build -t mainapp:v1 .
+
+Creating console container : 
+https://medium.com/@jaydeepvpatil225/containerize-the-net-core-7-console-application-using-docker-86e537321592
+
+DockerDotnet :
+https://github.com/dotnet/Docker.DotNet
+

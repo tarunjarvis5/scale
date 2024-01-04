@@ -1,0 +1,14 @@
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\bin\Debug\net6.0\ChildApp.exe
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\bin\Debug\net6.0\ChildApp.deps.json
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\bin\Debug\net6.0\ChildApp.runtimeconfig.json
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\bin\Debug\net6.0\ChildApp.dll
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\bin\Debug\net6.0\ChildApp.pdb
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\obj\Debug\net6.0\ChildApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\obj\Debug\net6.0\ChildApp.AssemblyInfoInputs.cache
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\obj\Debug\net6.0\ChildApp.AssemblyInfo.cs
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\obj\Debug\net6.0\ChildApp.csproj.CoreCompileInputs.cache
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\obj\Debug\net6.0\ChildApp.dll
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\obj\Debug\net6.0\refint\ChildApp.dll
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\obj\Debug\net6.0\ChildApp.pdb
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\obj\Debug\net6.0\ChildApp.genruntimeconfig.cache
+D:\POC\Scaling\LauncherContainerWithContainerThroughApp\ChildApp\obj\Debug\net6.0\ref\ChildApp.dll
